@@ -1,0 +1,14 @@
+PODS:
+  - YUStickerView (0.1.0)
+
+DEPENDENCIES:
+  - YUStickerView (from `../`)
+
+EXTERNAL SOURCES:
+  YUStickerView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YUStickerView: 750950e522b7ff5462006b904cba6530eb4fad7e
+
+COCOAPODS: 0.38.2

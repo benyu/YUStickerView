@@ -1,0 +1,6 @@
+framework module YUStickerView {
+  umbrella header "YUStickerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

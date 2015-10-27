@@ -1,0 +1,25 @@
+{
+  "name": "YUStickerView",
+  "version": "0.1.0",
+  "summary": "A short description of YUStickerView.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/YUStickerView",
+  "license": "MIT",
+  "authors": {
+    "benyu": "xide@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/YUStickerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "YUStickerView": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
